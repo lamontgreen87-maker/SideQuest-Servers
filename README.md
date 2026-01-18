@@ -8,7 +8,7 @@ SideQuest is a self-hostable AI-powered D&D dungeon crawler. This registry allow
 
 The web client automatically fetches this server list from:
 ```
-https://raw.githubusercontent.com/YOUR-USERNAME/SideQuest-Servers/main/servers.json
+https://raw.githubusercontent.com/lamontgreen87-maker/SideQuest-Servers/main/servers.json
 ```
 
 ## Running Your Own Server
