@@ -33,7 +33,7 @@ Wait 1-2 minutes for deployment.
 
 Your registry URL will be:
 ```
-https://raw.githubusercontent.com/YOUR-USERNAME/SideQuest-Servers/main/servers.json
+https://raw.githubusercontent.com/lamontgreen87-maker/SideQuest-Servers/main/servers.json
 ```
 
 Update the web client to use this URL (see instructions below).
@@ -60,7 +60,7 @@ const res = await fetch('servers.json');
 
 **Replace with:**
 ```javascript
-const res = await fetch('https://raw.githubusercontent.com/YOUR-USERNAME/SideQuest-Servers/main/servers.json');
+const res = await fetch('https://raw.githubusercontent.com/lamontgreen87-maker/SideQuest-Servers/main/servers.json');
 ```
 
 ## Testing

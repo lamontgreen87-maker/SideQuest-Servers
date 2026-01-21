@@ -79,4 +79,4 @@ Create a PR removing your entry with title: `Remove [Your Server Name]`
 
 ## Questions?
 
-Open an [issue](https://github.com/YOUR-USERNAME/SideQuest-Servers/issues) if you need help!
+Open an [issue](https://github.com/lamontgreen87-maker/SideQuest-Servers/issues) if you need help!
